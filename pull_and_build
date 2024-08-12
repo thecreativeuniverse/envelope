@@ -1,0 +1,5 @@
+git pull origin main
+mv data/raw ../temp/data/raw
+pip install . --no-dependencies
+mv ../temp/data/raw data/raw
+
