@@ -1,6 +1,7 @@
 # ExoplaNet VErification and Orbital Period Estimation (ENVELOPE)
 
 ENVELOPE is a Python module developed by I. Shrimpton under the supervision of Professor Peter Tino for a Bachelor's research project in the degree of Computer Science.
+The full report is provided in [this pdf](ML_in_the_hunt_for_exoplanets.pdf).
 
 ## Abstract
 The Kepler missions aimed to search for transiting exoplanets across hundreds of thousands of stars, however the data processing pipeline introduced for these missions required weeks worth of human input for manual verification.
